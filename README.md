@@ -57,7 +57,11 @@ SafePose는 정신병원 환경에서 발생하는 낙상 사고를 사전에 �
 ---
 
 ## Tech Stack
+<<<<<<< HEAD
 ![](./images/stack.png)
+=======
+![Stack](./images/stack.png)
+>>>>>>> 57ab607366ae5368012588f7b2d9b0e025291202
 
 ---
 
