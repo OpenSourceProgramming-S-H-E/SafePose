@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-# SafePose
-
-=======
->>>>>>> develop
 # SafePose: 정신질환자의 낙상 사고 예방을 위한 AI 모니터링 시스템
 
 SafePose는 정신질환자의 낙상 위험을 실시간으로 예측하고, 의료진 및 보호자에게 즉시 알림을 전송하는 AI 기반 행동 감지 시스템입니다.
@@ -57,11 +52,7 @@ SafePose는 정신병원 환경에서 발생하는 낙상 사고를 사전에 �
 ---
 
 ## Tech Stack
-<<<<<<< HEAD
-![](./images/stack.png)
-=======
 ![Stack](./images/stack.png)
->>>>>>> 57ab607366ae5368012588f7b2d9b0e025291202
 
 ---
 
@@ -69,6 +60,7 @@ SafePose는 정신병원 환경에서 발생하는 낙상 사고를 사전에 �
 
 1. Movenet(Google)
 - https://github.com/tensorflow/docs-l10n/blob/master/site/ko/hub/tutorials/movenet.ipynb
+  
 ![System Architecture](./images/movenet.png)
 
 ---
