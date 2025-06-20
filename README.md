@@ -54,7 +54,7 @@ SafePose는 정신병원 환경에서 발생하는 낙상 사고를 사전에 �
 ---
 
 ## Tech Stack
-![System Architecture](./images/stack.png)
+![Stack](./images/stack.png)
 
 ---
 
@@ -70,7 +70,7 @@ SafePose는 정신병원 환경에서 발생하는 낙상 사고를 사전에 �
 
 - Eunseo Jeong : AI 모델 개발
 - Seungji Kang : 실시간 알림 서비스 웹 구현
-- : 데이터 수집 및 관절 추출 처리
+- Hyoju Lim : 데이터 수집 및 관절 추출 처리
 
 ---
 
